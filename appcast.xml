@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Music Assistant Controller</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 21 Jul 2026 22:57:52 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/austinbjohnson/macOS_musicAssistant-releases/releases/download/v1.0.0/MusicAssistantController-1.0.0-1.zip" length="2139116" type="application/octet-stream" sparkle:edSignature="TUv9bG2MrJM8SZRIOYqjS12hlovW/L4Fz3aGE7KdYEGQkSXG0Qn7P+nBFiyqg94G12RGj+SRo/DXEIoRgEQpAw=="/>
+        </item>
+    </channel>
+</rss>
